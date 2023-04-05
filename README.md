@@ -1,9 +1,8 @@
 # Guess-My-Number
 A simple game built with JavaScript
-Markup: ## Inspiration
+## Inspiration
 I wanted to learn how to make apps using JavaScript. Instead of inventing an app, I chose to try and recreate an application from a course from Udemy.
-
-Markup: ##Running
+## Running
 - Clone & install
 Markup: -Clone this repo git clone
 - cd 
