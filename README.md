@@ -9,9 +9,7 @@ Welcome to the "Guess My Number!" game project. This simple web application allo
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -32,3 +30,18 @@ To run the game locally, follow these steps:
    ```bash
    cd guess-my-number
 3. Open the index.html file in your preferred web browser.
+
+## How to play
+
+1. Enter a number between 1 and 20 in the input field.
+2. Click the "Check!" button to see if you guessed the correct number.
+3. Follow the feedback messages to adjust your guesses.
+4. Try to beat your high score by guessing the correct number with the fewest attempts.
+
+## Project Structure
+* index.html: HTML file containing the structure of the web page.
+* style.css: CSS file with styles for the game layout.
+* script.js: JavaScript file handling the game logic and interactions.
+
+## Contributing
+Contributions are welcome! If you find a bug or have suggestions for improvements, please open an issue or create a pull request.
